@@ -1,0 +1,1268 @@
+{
+  "best_params": {
+    "Ridge": {
+      "alpha": 10.0,
+      "fit_intercept": false,
+      "window": 6
+    },
+    "RF": {
+      "n_estimators": 300,
+      "max_depth": 5,
+      "min_samples_leaf": 1,
+      "window": 12
+    },
+    "KNN": {
+      "n_neighbors": 7,
+      "weights": "uniform",
+      "leaf_size": 30,
+      "p": 1,
+      "window": 16
+    },
+    "LSTM": {
+      "h": 32,
+      "num_layers": 3,
+      "dropout": 0.0,
+      "lr": 0.0001,
+      "window": 12
+    }
+  },
+  "best_val_mae": {
+    "Ridge": 6.230145933456556,
+    "RF": 6.6235549727130545,
+    "KNN": 6.657802762612864,
+    "LSTM": 6.952869384522988
+  },
+  "best_window": 6,
+  "trials": [
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 10.0,
+        "fit_intercept": false,
+        "window": 6
+      },
+      "val_mae": 6.230145933456556
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 1.0,
+        "fit_intercept": false,
+        "window": 12
+      },
+      "val_mae": 6.437077604125516
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 1.0,
+        "fit_intercept": false,
+        "window": 10
+      },
+      "val_mae": 6.424606556871874
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 100.0,
+        "fit_intercept": true,
+        "window": 14
+      },
+      "val_mae": 6.661876561339053
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 0.1,
+        "fit_intercept": false,
+        "window": 8
+      },
+      "val_mae": 6.312422602460961
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 0.01,
+        "fit_intercept": false,
+        "window": 14
+      },
+      "val_mae": 6.526279350975764
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 100.0,
+        "fit_intercept": true,
+        "window": 10
+      },
+      "val_mae": 6.5686366499273925
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 0.01,
+        "fit_intercept": true,
+        "window": 16
+      },
+      "val_mae": 6.709833333530709
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 1.0,
+        "fit_intercept": false,
+        "window": 14
+      },
+      "val_mae": 6.511190003951395
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 0.01,
+        "fit_intercept": false,
+        "window": 12
+      },
+      "val_mae": 6.448500486010879
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 1.0,
+        "fit_intercept": true,
+        "window": 14
+      },
+      "val_mae": 6.660594525679756
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 10.0,
+        "fit_intercept": false,
+        "window": 14
+      },
+      "val_mae": 6.495984246686216
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 1.0,
+        "fit_intercept": true,
+        "window": 14
+      },
+      "val_mae": 6.660594525679756
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 0.01,
+        "fit_intercept": true,
+        "window": 16
+      },
+      "val_mae": 6.709833333530709
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 10.0,
+        "fit_intercept": true,
+        "window": 14
+      },
+      "val_mae": 6.657528003368531
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 10.0,
+        "fit_intercept": false,
+        "window": 8
+      },
+      "val_mae": 6.265070110776402
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 1.0,
+        "fit_intercept": true,
+        "window": 8
+      },
+      "val_mae": 6.437840539044105
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 100.0,
+        "fit_intercept": true,
+        "window": 8
+      },
+      "val_mae": 6.473499210607505
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 0.1,
+        "fit_intercept": false,
+        "window": 6
+      },
+      "val_mae": 6.267393091248036
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 0.01,
+        "fit_intercept": false,
+        "window": 14
+      },
+      "val_mae": 6.526279350975764
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 10.0,
+        "fit_intercept": true,
+        "window": 10
+      },
+      "val_mae": 6.559758741505118
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 100.0,
+        "fit_intercept": false,
+        "window": 16
+      },
+      "val_mae": 6.552589770307041
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 0.01,
+        "fit_intercept": false,
+        "window": 14
+      },
+      "val_mae": 6.526279350975764
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 0.1,
+        "fit_intercept": false,
+        "window": 12
+      },
+      "val_mae": 6.4453773244563095
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 0.01,
+        "fit_intercept": false,
+        "window": 10
+      },
+      "val_mae": 6.433854110905688
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 100.0,
+        "fit_intercept": true,
+        "window": 10
+      },
+      "val_mae": 6.5686366499273925
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 0.1,
+        "fit_intercept": true,
+        "window": 8
+      },
+      "val_mae": 6.4336780043762065
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 0.01,
+        "fit_intercept": false,
+        "window": 12
+      },
+      "val_mae": 6.448500486010879
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 0.01,
+        "fit_intercept": true,
+        "window": 16
+      },
+      "val_mae": 6.709833333530709
+    },
+    {
+      "model": "Ridge",
+      "params": {
+        "alpha": 0.1,
+        "fit_intercept": true,
+        "window": 6
+      },
+      "val_mae": 6.339593250960125
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 100,
+        "max_depth": 12,
+        "min_samples_leaf": 4,
+        "window": 14
+      },
+      "val_mae": 6.746119731034017
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 200,
+        "max_depth": 5,
+        "min_samples_leaf": 1,
+        "window": 16
+      },
+      "val_mae": 6.711128179874679
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 12,
+        "min_samples_leaf": 4,
+        "window": 10
+      },
+      "val_mae": 6.780214934393175
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 200,
+        "max_depth": 12,
+        "min_samples_leaf": 4,
+        "window": 16
+      },
+      "val_mae": 6.787420579356217
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 8,
+        "min_samples_leaf": 1,
+        "window": 10
+      },
+      "val_mae": 6.745512284178638
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "min_samples_leaf": 2,
+        "window": 14
+      },
+      "val_mae": 6.726457492884652
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 8,
+        "min_samples_leaf": 1,
+        "window": 8
+      },
+      "val_mae": 6.803092620051429
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 100,
+        "max_depth": 8,
+        "min_samples_leaf": 1,
+        "window": 16
+      },
+      "val_mae": 6.748187185277263
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 100,
+        "max_depth": 8,
+        "min_samples_leaf": 1,
+        "window": 10
+      },
+      "val_mae": 6.7184176936339375
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 200,
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "window": 8
+      },
+      "val_mae": 6.801462336451506
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 5,
+        "min_samples_leaf": 1,
+        "window": 14
+      },
+      "val_mae": 6.660759046037815
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "window": 6
+      },
+      "val_mae": 6.924090506362819
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 5,
+        "min_samples_leaf": 4,
+        "window": 14
+      },
+      "val_mae": 6.7238539028178
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 100,
+        "max_depth": 12,
+        "min_samples_leaf": 1,
+        "window": 10
+      },
+      "val_mae": 6.712516181748953
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 100,
+        "max_depth": null,
+        "min_samples_leaf": 4,
+        "window": 6
+      },
+      "val_mae": 6.972700990051355
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 100,
+        "max_depth": 5,
+        "min_samples_leaf": 4,
+        "window": 6
+      },
+      "val_mae": 6.93175122430606
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 200,
+        "max_depth": 5,
+        "min_samples_leaf": 4,
+        "window": 6
+      },
+      "val_mae": 6.924192411957816
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "min_samples_leaf": 4,
+        "window": 12
+      },
+      "val_mae": 6.688887124715766
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "min_samples_leaf": 2,
+        "window": 6
+      },
+      "val_mae": 6.946084038635087
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 100,
+        "max_depth": null,
+        "min_samples_leaf": 4,
+        "window": 10
+      },
+      "val_mae": 6.73982286508623
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 200,
+        "max_depth": 12,
+        "min_samples_leaf": 1,
+        "window": 6
+      },
+      "val_mae": 6.932184616237801
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 12,
+        "min_samples_leaf": 1,
+        "window": 14
+      },
+      "val_mae": 6.706577979082929
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 100,
+        "max_depth": 12,
+        "min_samples_leaf": 1,
+        "window": 10
+      },
+      "val_mae": 6.712516181748954
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 200,
+        "max_depth": 12,
+        "min_samples_leaf": 4,
+        "window": 8
+      },
+      "val_mae": 6.843834821334643
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 5,
+        "min_samples_leaf": 1,
+        "window": 16
+      },
+      "val_mae": 6.702214607540624
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 100,
+        "max_depth": 5,
+        "min_samples_leaf": 2,
+        "window": 14
+      },
+      "val_mae": 6.694379301055554
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 200,
+        "max_depth": null,
+        "min_samples_leaf": 4,
+        "window": 12
+      },
+      "val_mae": 6.68922041192384
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 5,
+        "min_samples_leaf": 1,
+        "window": 12
+      },
+      "val_mae": 6.6235549727130545
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 300,
+        "max_depth": 12,
+        "min_samples_leaf": 4,
+        "window": 14
+      },
+      "val_mae": 6.741918770419038
+    },
+    {
+      "model": "RF",
+      "params": {
+        "n_estimators": 200,
+        "max_depth": 8,
+        "min_samples_leaf": 2,
+        "window": 16
+      },
+      "val_mae": 6.766962247249819
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 7,
+        "weights": "uniform",
+        "leaf_size": 30,
+        "p": 2,
+        "window": 16
+      },
+      "val_mae": 6.757858102939648
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 3,
+        "weights": "distance",
+        "leaf_size": 30,
+        "p": 2,
+        "window": 8
+      },
+      "val_mae": 7.03123164099459
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 5,
+        "weights": "distance",
+        "leaf_size": 50,
+        "p": 2,
+        "window": 16
+      },
+      "val_mae": 6.725969082941797
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 7,
+        "weights": "uniform",
+        "leaf_size": 50,
+        "p": 2,
+        "window": 16
+      },
+      "val_mae": 6.757858102939648
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 9,
+        "weights": "uniform",
+        "leaf_size": 30,
+        "p": 1,
+        "window": 16
+      },
+      "val_mae": 6.708642611397692
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 7,
+        "weights": "uniform",
+        "leaf_size": 30,
+        "p": 1,
+        "window": 16
+      },
+      "val_mae": 6.657802762612864
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 9,
+        "weights": "distance",
+        "leaf_size": 50,
+        "p": 1,
+        "window": 12
+      },
+      "val_mae": 6.830118227607426
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 9,
+        "weights": "uniform",
+        "leaf_size": 30,
+        "p": 2,
+        "window": 6
+      },
+      "val_mae": 7.0002992510941136
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 7,
+        "weights": "uniform",
+        "leaf_size": 50,
+        "p": 2,
+        "window": 14
+      },
+      "val_mae": 6.820454087133163
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 3,
+        "weights": "uniform",
+        "leaf_size": 50,
+        "p": 2,
+        "window": 10
+      },
+      "val_mae": 6.977806951637726
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 9,
+        "weights": "uniform",
+        "leaf_size": 50,
+        "p": 1,
+        "window": 14
+      },
+      "val_mae": 6.772080703212298
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 3,
+        "weights": "uniform",
+        "leaf_size": 30,
+        "p": 2,
+        "window": 16
+      },
+      "val_mae": 6.7329637947960395
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 9,
+        "weights": "distance",
+        "leaf_size": 30,
+        "p": 1,
+        "window": 6
+      },
+      "val_mae": 6.91004083622089
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 3,
+        "weights": "uniform",
+        "leaf_size": 30,
+        "p": 1,
+        "window": 14
+      },
+      "val_mae": 6.668049647143189
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 5,
+        "weights": "distance",
+        "leaf_size": 50,
+        "p": 1,
+        "window": 6
+      },
+      "val_mae": 7.062087135442575
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 9,
+        "weights": "distance",
+        "leaf_size": 30,
+        "p": 1,
+        "window": 10
+      },
+      "val_mae": 6.854741938061323
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 9,
+        "weights": "uniform",
+        "leaf_size": 50,
+        "p": 1,
+        "window": 16
+      },
+      "val_mae": 6.708642611397692
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 7,
+        "weights": "uniform",
+        "leaf_size": 30,
+        "p": 2,
+        "window": 6
+      },
+      "val_mae": 6.991247778534919
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 3,
+        "weights": "uniform",
+        "leaf_size": 30,
+        "p": 2,
+        "window": 14
+      },
+      "val_mae": 6.793294457281201
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 7,
+        "weights": "distance",
+        "leaf_size": 30,
+        "p": 2,
+        "window": 16
+      },
+      "val_mae": 6.738597689882314
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 9,
+        "weights": "distance",
+        "leaf_size": 50,
+        "p": 1,
+        "window": 8
+      },
+      "val_mae": 6.908503797516116
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 9,
+        "weights": "distance",
+        "leaf_size": 30,
+        "p": 1,
+        "window": 8
+      },
+      "val_mae": 6.908503797516116
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 7,
+        "weights": "distance",
+        "leaf_size": 50,
+        "p": 2,
+        "window": 16
+      },
+      "val_mae": 6.738597689882314
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 3,
+        "weights": "distance",
+        "leaf_size": 30,
+        "p": 1,
+        "window": 10
+      },
+      "val_mae": 6.954001869890947
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 5,
+        "weights": "uniform",
+        "leaf_size": 50,
+        "p": 2,
+        "window": 12
+      },
+      "val_mae": 6.861456671200105
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 5,
+        "weights": "distance",
+        "leaf_size": 30,
+        "p": 2,
+        "window": 16
+      },
+      "val_mae": 6.725969082941797
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 5,
+        "weights": "uniform",
+        "leaf_size": 50,
+        "p": 1,
+        "window": 14
+      },
+      "val_mae": 6.693061022684793
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 3,
+        "weights": "distance",
+        "leaf_size": 50,
+        "p": 2,
+        "window": 10
+      },
+      "val_mae": 6.967722614033208
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 9,
+        "weights": "uniform",
+        "leaf_size": 30,
+        "p": 2,
+        "window": 12
+      },
+      "val_mae": 6.891712545024517
+    },
+    {
+      "model": "KNN",
+      "params": {
+        "n_neighbors": 7,
+        "weights": "distance",
+        "leaf_size": 30,
+        "p": 2,
+        "window": 6
+      },
+      "val_mae": 6.98295745206709
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 128,
+        "num_layers": 2,
+        "dropout": 0.2,
+        "lr": 0.001,
+        "window": 10
+      },
+      "val_mae": 7.73950766119134
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 64,
+        "num_layers": 3,
+        "dropout": 0.4,
+        "lr": 0.001,
+        "window": 8
+      },
+      "val_mae": 7.64265392031453
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 128,
+        "num_layers": 3,
+        "dropout": 0.2,
+        "lr": 0.0001,
+        "window": 6
+      },
+      "val_mae": 7.460086453478999
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 32,
+        "num_layers": 1,
+        "dropout": 0.0,
+        "lr": 0.0001,
+        "window": 8
+      },
+      "val_mae": 7.004169645687947
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 32,
+        "num_layers": 2,
+        "dropout": 0.0,
+        "lr": 0.001,
+        "window": 12
+      },
+      "val_mae": 7.419890191962598
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 128,
+        "num_layers": 3,
+        "dropout": 0.2,
+        "lr": 0.0003,
+        "window": 12
+      },
+      "val_mae": 7.568765953548397
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 128,
+        "num_layers": 3,
+        "dropout": 0.4,
+        "lr": 0.001,
+        "window": 12
+      },
+      "val_mae": 7.911173151225951
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 32,
+        "num_layers": 2,
+        "dropout": 0.0,
+        "lr": 0.0003,
+        "window": 14
+      },
+      "val_mae": 6.98300532776402
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 32,
+        "num_layers": 2,
+        "dropout": 0.0,
+        "lr": 0.0003,
+        "window": 6
+      },
+      "val_mae": 7.024450953817937
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 32,
+        "num_layers": 3,
+        "dropout": 0.0,
+        "lr": 0.0001,
+        "window": 12
+      },
+      "val_mae": 6.952869384522988
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 128,
+        "num_layers": 1,
+        "dropout": 0.0,
+        "lr": 0.0003,
+        "window": 12
+      },
+      "val_mae": 7.526910488596971
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 64,
+        "num_layers": 1,
+        "dropout": 0.4,
+        "lr": 0.001,
+        "window": 8
+      },
+      "val_mae": 7.572047795040195
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 128,
+        "num_layers": 1,
+        "dropout": 0.0,
+        "lr": 0.001,
+        "window": 12
+      },
+      "val_mae": 7.827337232744334
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 64,
+        "num_layers": 2,
+        "dropout": 0.4,
+        "lr": 0.001,
+        "window": 6
+      },
+      "val_mae": 7.6065827615708805
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 128,
+        "num_layers": 2,
+        "dropout": 0.0,
+        "lr": 0.0001,
+        "window": 12
+      },
+      "val_mae": 7.531082259822488
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 128,
+        "num_layers": 3,
+        "dropout": 0.2,
+        "lr": 0.0001,
+        "window": 12
+      },
+      "val_mae": 7.530511981669439
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 128,
+        "num_layers": 2,
+        "dropout": 0.2,
+        "lr": 0.0003,
+        "window": 16
+      },
+      "val_mae": 7.457494880796824
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 128,
+        "num_layers": 1,
+        "dropout": 0.4,
+        "lr": 0.0001,
+        "window": 8
+      },
+      "val_mae": 7.391963375961309
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 32,
+        "num_layers": 2,
+        "dropout": 0.4,
+        "lr": 0.0001,
+        "window": 10
+      },
+      "val_mae": 6.972857116307567
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 64,
+        "num_layers": 1,
+        "dropout": 0.4,
+        "lr": 0.001,
+        "window": 10
+      },
+      "val_mae": 7.4796051628198565
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 128,
+        "num_layers": 1,
+        "dropout": 0.2,
+        "lr": 0.0001,
+        "window": 10
+      },
+      "val_mae": 7.405002455089515
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 128,
+        "num_layers": 3,
+        "dropout": 0.2,
+        "lr": 0.001,
+        "window": 6
+      },
+      "val_mae": 7.701466811766544
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 128,
+        "num_layers": 1,
+        "dropout": 0.0,
+        "lr": 0.001,
+        "window": 8
+      },
+      "val_mae": 7.6738214030719964
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 32,
+        "num_layers": 2,
+        "dropout": 0.0,
+        "lr": 0.0003,
+        "window": 10
+      },
+      "val_mae": 7.01749057542504
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 32,
+        "num_layers": 1,
+        "dropout": 0.4,
+        "lr": 0.0003,
+        "window": 10
+      },
+      "val_mae": 7.049347541869252
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 128,
+        "num_layers": 2,
+        "dropout": 0.4,
+        "lr": 0.0001,
+        "window": 6
+      },
+      "val_mae": 7.622676081031808
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 128,
+        "num_layers": 1,
+        "dropout": 0.4,
+        "lr": 0.0001,
+        "window": 14
+      },
+      "val_mae": 7.463673414810386
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 32,
+        "num_layers": 3,
+        "dropout": 0.2,
+        "lr": 0.001,
+        "window": 10
+      },
+      "val_mae": 7.314786125236614
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 128,
+        "num_layers": 3,
+        "dropout": 0.2,
+        "lr": 0.0003,
+        "window": 12
+      },
+      "val_mae": 7.474172785010889
+    },
+    {
+      "model": "LSTM",
+      "params": {
+        "h": 128,
+        "num_layers": 3,
+        "dropout": 0.0,
+        "lr": 0.001,
+        "window": 16
+      },
+      "val_mae": 7.609262064574922
+    }
+  ]
+}

@@ -1,0 +1,9236 @@
+[
+  {
+    "tag":"P",
+    "region":"Business Bay",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Business Bay",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Business Bay",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Business Bay",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Business Bay",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Business Bay",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Business Bay",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Business Bay",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Business Bay",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DAMAC HILLS 2",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DAMAC HILLS 2",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DAMAC HILLS 2",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DAMAC HILLS 2",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DAMAC HILLS 2",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DAMAC HILLS 2",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DAMAC HILLS 2",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DAMAC HILLS 2",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DAMAC HILLS 2",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DAMAC HILLS",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DAMAC HILLS",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DAMAC HILLS",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DAMAC HILLS",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DAMAC HILLS",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DAMAC HILLS",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DAMAC HILLS",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DAMAC HILLS",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DAMAC HILLS",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"TOWN SQUARE",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"TOWN SQUARE",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"TOWN SQUARE",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"TOWN SQUARE",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"TOWN SQUARE",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"TOWN SQUARE",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"TOWN SQUARE",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"TOWN SQUARE",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"TOWN SQUARE",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DownTown Dubai",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DownTown Dubai",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DownTown Dubai",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DownTown Dubai",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DownTown Dubai",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DownTown Dubai",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DownTown Dubai",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DownTown Dubai",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"DownTown Dubai",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Creek Harbour",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Creek Harbour",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Creek Harbour",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Creek Harbour",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Creek Harbour",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Creek Harbour",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Creek Harbour",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Creek Harbour",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Creek Harbour",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Marina",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Marina",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Marina",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Marina",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Marina",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Marina",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Marina",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Marina",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Marina",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai South Residential District",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai South Residential District",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai South Residential District",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai South Residential District",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai South Residential District",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai South Residential District",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai South Residential District",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai South Residential District",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai South Residential District",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Sports City",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Sports City",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Sports City",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Sports City",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Sports City",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Sports City",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Sports City",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Sports City",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Dubai Sports City",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Al Furjan",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Al Furjan",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Al Furjan",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Al Furjan",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Al Furjan",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Al Furjan",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Al Furjan",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Al Furjan",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Al Furjan",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"International City Phase 1",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"International City Phase 1",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"International City Phase 1",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"International City Phase 1",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"International City Phase 1",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"International City Phase 1",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"International City Phase 1",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"International City Phase 1",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"International City Phase 1",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Village Circle",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Village Circle",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Village Circle",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Village Circle",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Village Circle",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Village Circle",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Village Circle",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Village Circle",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Village Circle",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Village Triangle",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Village Triangle",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Village Triangle",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Village Triangle",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Village Triangle",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Village Triangle",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Village Triangle",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Village Triangle",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeirah Village Triangle",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Mudon",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Mudon",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Mudon",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Mudon",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Mudon",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Mudon",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Mudon",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Mudon",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Mudon",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Palm Jumeirah",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Palm Jumeirah",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Palm Jumeirah",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Palm Jumeirah",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Palm Jumeirah",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Palm Jumeirah",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Palm Jumeirah",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Palm Jumeirah",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Palm Jumeirah",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Silicon Oasis",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Silicon Oasis",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Silicon Oasis",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Silicon Oasis",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Silicon Oasis",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Silicon Oasis",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Silicon Oasis",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Silicon Oasis",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"Silicon Oasis",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"The Greens",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"The Greens",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"The Greens",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"The Greens",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"The Greens",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"The Greens",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"The Greens",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"The Greens",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"P",
+    "region":"The Greens",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":12,
+    "n_steps":12,
+    "ch_seq":1
+  },
+  {
+    "tag":"PC",
+    "region":"Business Bay",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Business Bay",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Business Bay",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Business Bay",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Business Bay",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Business Bay",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Business Bay",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Business Bay",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Business Bay",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DAMAC HILLS 2",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DAMAC HILLS 2",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DAMAC HILLS 2",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DAMAC HILLS 2",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DAMAC HILLS 2",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DAMAC HILLS 2",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DAMAC HILLS 2",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DAMAC HILLS 2",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DAMAC HILLS 2",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DAMAC HILLS",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DAMAC HILLS",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DAMAC HILLS",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DAMAC HILLS",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DAMAC HILLS",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DAMAC HILLS",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DAMAC HILLS",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DAMAC HILLS",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DAMAC HILLS",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"TOWN SQUARE",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"TOWN SQUARE",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"TOWN SQUARE",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"TOWN SQUARE",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"TOWN SQUARE",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"TOWN SQUARE",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"TOWN SQUARE",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"TOWN SQUARE",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"TOWN SQUARE",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DownTown Dubai",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DownTown Dubai",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DownTown Dubai",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DownTown Dubai",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DownTown Dubai",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DownTown Dubai",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DownTown Dubai",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DownTown Dubai",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"DownTown Dubai",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Creek Harbour",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Creek Harbour",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Creek Harbour",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Creek Harbour",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Creek Harbour",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Creek Harbour",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Creek Harbour",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Creek Harbour",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Creek Harbour",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Marina",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Marina",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Marina",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Marina",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Marina",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Marina",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Marina",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Marina",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Marina",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai South Residential District",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai South Residential District",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai South Residential District",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai South Residential District",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai South Residential District",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai South Residential District",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai South Residential District",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai South Residential District",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai South Residential District",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Sports City",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Sports City",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Sports City",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Sports City",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Sports City",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Sports City",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Sports City",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Sports City",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Dubai Sports City",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Al Furjan",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Al Furjan",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Al Furjan",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Al Furjan",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Al Furjan",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Al Furjan",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Al Furjan",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Al Furjan",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Al Furjan",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"International City Phase 1",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"International City Phase 1",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"International City Phase 1",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"International City Phase 1",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"International City Phase 1",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"International City Phase 1",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"International City Phase 1",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"International City Phase 1",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"International City Phase 1",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Village Circle",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Village Circle",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Village Circle",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Village Circle",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Village Circle",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Village Circle",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Village Circle",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Village Circle",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Village Circle",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Village Triangle",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Village Triangle",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Village Triangle",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Village Triangle",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Village Triangle",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Village Triangle",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Village Triangle",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Village Triangle",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeirah Village Triangle",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Mudon",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Mudon",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Mudon",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Mudon",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Mudon",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Mudon",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Mudon",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Mudon",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Mudon",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Palm Jumeirah",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Palm Jumeirah",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Palm Jumeirah",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Palm Jumeirah",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Palm Jumeirah",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Palm Jumeirah",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Palm Jumeirah",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Palm Jumeirah",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Palm Jumeirah",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Silicon Oasis",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Silicon Oasis",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Silicon Oasis",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Silicon Oasis",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Silicon Oasis",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Silicon Oasis",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Silicon Oasis",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Silicon Oasis",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"Silicon Oasis",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"The Greens",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"The Greens",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"The Greens",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"The Greens",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"The Greens",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"The Greens",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"The Greens",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"The Greens",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PC",
+    "region":"The Greens",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":24,
+    "n_steps":12,
+    "ch_seq":2
+  },
+  {
+    "tag":"PCS",
+    "region":"Business Bay",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Business Bay",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Business Bay",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Business Bay",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Business Bay",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Business Bay",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Business Bay",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Business Bay",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Business Bay",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DAMAC HILLS 2",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DAMAC HILLS 2",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DAMAC HILLS 2",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DAMAC HILLS 2",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DAMAC HILLS 2",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DAMAC HILLS 2",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DAMAC HILLS 2",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DAMAC HILLS 2",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DAMAC HILLS 2",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DAMAC HILLS",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DAMAC HILLS",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DAMAC HILLS",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DAMAC HILLS",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DAMAC HILLS",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DAMAC HILLS",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DAMAC HILLS",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DAMAC HILLS",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DAMAC HILLS",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"TOWN SQUARE",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"TOWN SQUARE",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"TOWN SQUARE",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"TOWN SQUARE",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"TOWN SQUARE",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"TOWN SQUARE",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"TOWN SQUARE",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"TOWN SQUARE",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"TOWN SQUARE",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DownTown Dubai",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DownTown Dubai",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DownTown Dubai",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DownTown Dubai",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DownTown Dubai",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DownTown Dubai",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DownTown Dubai",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DownTown Dubai",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"DownTown Dubai",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Creek Harbour",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Creek Harbour",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Creek Harbour",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Creek Harbour",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Creek Harbour",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Creek Harbour",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Creek Harbour",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Creek Harbour",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Creek Harbour",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Marina",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Marina",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Marina",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Marina",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Marina",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Marina",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Marina",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Marina",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Marina",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai South Residential District",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai South Residential District",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai South Residential District",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai South Residential District",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai South Residential District",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai South Residential District",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai South Residential District",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai South Residential District",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai South Residential District",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Sports City",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Sports City",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Sports City",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Sports City",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Sports City",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Sports City",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Sports City",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Sports City",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Dubai Sports City",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Al Furjan",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Al Furjan",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Al Furjan",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Al Furjan",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Al Furjan",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Al Furjan",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Al Furjan",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Al Furjan",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Al Furjan",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"International City Phase 1",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"International City Phase 1",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"International City Phase 1",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"International City Phase 1",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"International City Phase 1",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"International City Phase 1",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"International City Phase 1",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"International City Phase 1",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"International City Phase 1",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Village Circle",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Village Circle",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Village Circle",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Village Circle",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Village Circle",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Village Circle",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Village Circle",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Village Circle",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Village Circle",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Village Triangle",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Village Triangle",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Village Triangle",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Village Triangle",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Village Triangle",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Village Triangle",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Village Triangle",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Village Triangle",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeirah Village Triangle",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Mudon",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Mudon",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Mudon",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Mudon",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Mudon",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Mudon",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Mudon",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Mudon",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Mudon",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Palm Jumeirah",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Palm Jumeirah",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Palm Jumeirah",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Palm Jumeirah",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Palm Jumeirah",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Palm Jumeirah",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Palm Jumeirah",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Palm Jumeirah",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Palm Jumeirah",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Silicon Oasis",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Silicon Oasis",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Silicon Oasis",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Silicon Oasis",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Silicon Oasis",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Silicon Oasis",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Silicon Oasis",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Silicon Oasis",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"Silicon Oasis",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"The Greens",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"The Greens",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"The Greens",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"The Greens",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"The Greens",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"The Greens",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"The Greens",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"The Greens",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCS",
+    "region":"The Greens",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":39,
+    "n_steps":12,
+    "ch_seq":17
+  },
+  {
+    "tag":"PCSB",
+    "region":"Business Bay",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Business Bay",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Business Bay",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Business Bay",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Business Bay",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Business Bay",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Business Bay",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Business Bay",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Business Bay",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DAMAC HILLS 2",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DAMAC HILLS 2",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DAMAC HILLS 2",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DAMAC HILLS 2",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DAMAC HILLS 2",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DAMAC HILLS 2",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DAMAC HILLS 2",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DAMAC HILLS 2",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DAMAC HILLS 2",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DAMAC HILLS",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DAMAC HILLS",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DAMAC HILLS",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DAMAC HILLS",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DAMAC HILLS",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DAMAC HILLS",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DAMAC HILLS",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DAMAC HILLS",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DAMAC HILLS",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"TOWN SQUARE",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"TOWN SQUARE",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"TOWN SQUARE",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"TOWN SQUARE",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"TOWN SQUARE",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"TOWN SQUARE",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"TOWN SQUARE",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"TOWN SQUARE",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"TOWN SQUARE",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DownTown Dubai",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DownTown Dubai",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DownTown Dubai",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DownTown Dubai",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DownTown Dubai",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DownTown Dubai",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DownTown Dubai",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DownTown Dubai",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"DownTown Dubai",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Creek Harbour",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Creek Harbour",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Creek Harbour",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Creek Harbour",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Creek Harbour",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Creek Harbour",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Creek Harbour",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Creek Harbour",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Creek Harbour",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Marina",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Marina",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Marina",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Marina",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Marina",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Marina",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Marina",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Marina",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Marina",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai South Residential District",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai South Residential District",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai South Residential District",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai South Residential District",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai South Residential District",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai South Residential District",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai South Residential District",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai South Residential District",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai South Residential District",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Sports City",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Sports City",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Sports City",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Sports City",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Sports City",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Sports City",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Sports City",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Sports City",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Dubai Sports City",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Al Furjan",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Al Furjan",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Al Furjan",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Al Furjan",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Al Furjan",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Al Furjan",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Al Furjan",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Al Furjan",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Al Furjan",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"International City Phase 1",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"International City Phase 1",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"International City Phase 1",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"International City Phase 1",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"International City Phase 1",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"International City Phase 1",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"International City Phase 1",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"International City Phase 1",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"International City Phase 1",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Village Circle",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Village Circle",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Village Circle",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Village Circle",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Village Circle",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Village Circle",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Village Circle",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Village Circle",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Village Circle",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Village Triangle",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Village Triangle",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Village Triangle",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Village Triangle",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Village Triangle",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Village Triangle",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Village Triangle",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Village Triangle",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeirah Village Triangle",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Mudon",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Mudon",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Mudon",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Mudon",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Mudon",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Mudon",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Mudon",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Mudon",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Mudon",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Palm Jumeirah",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Palm Jumeirah",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Palm Jumeirah",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Palm Jumeirah",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Palm Jumeirah",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Palm Jumeirah",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Palm Jumeirah",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Palm Jumeirah",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Palm Jumeirah",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Silicon Oasis",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Silicon Oasis",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Silicon Oasis",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Silicon Oasis",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Silicon Oasis",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Silicon Oasis",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Silicon Oasis",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Silicon Oasis",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"Silicon Oasis",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"The Greens",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"The Greens",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"The Greens",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"The Greens",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"The Greens",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"The Greens",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"The Greens",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"The Greens",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSB",
+    "region":"The Greens",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":54,
+    "n_steps":12,
+    "ch_seq":32
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Business Bay",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Business Bay",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Business Bay",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Business Bay",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Business Bay",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Business Bay",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Business Bay",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Business Bay",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Business Bay",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DAMAC HILLS 2",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DAMAC HILLS 2",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DAMAC HILLS 2",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DAMAC HILLS 2",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DAMAC HILLS 2",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DAMAC HILLS 2",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DAMAC HILLS 2",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DAMAC HILLS 2",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DAMAC HILLS 2",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DAMAC HILLS",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DAMAC HILLS",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DAMAC HILLS",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DAMAC HILLS",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DAMAC HILLS",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DAMAC HILLS",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DAMAC HILLS",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DAMAC HILLS",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DAMAC HILLS",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"TOWN SQUARE",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"TOWN SQUARE",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"TOWN SQUARE",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"TOWN SQUARE",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"TOWN SQUARE",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"TOWN SQUARE",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"TOWN SQUARE",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"TOWN SQUARE",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"TOWN SQUARE",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DownTown Dubai",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DownTown Dubai",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DownTown Dubai",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DownTown Dubai",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DownTown Dubai",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DownTown Dubai",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DownTown Dubai",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DownTown Dubai",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"DownTown Dubai",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Creek Harbour",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Creek Harbour",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Creek Harbour",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Creek Harbour",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Creek Harbour",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Creek Harbour",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Creek Harbour",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Creek Harbour",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Creek Harbour",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Marina",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Marina",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Marina",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Marina",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Marina",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Marina",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Marina",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Marina",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Marina",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai South Residential District",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai South Residential District",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai South Residential District",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai South Residential District",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai South Residential District",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai South Residential District",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai South Residential District",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai South Residential District",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai South Residential District",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Sports City",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Sports City",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Sports City",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Sports City",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Sports City",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Sports City",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Sports City",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Sports City",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Dubai Sports City",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Al Furjan",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Al Furjan",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Al Furjan",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Al Furjan",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Al Furjan",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Al Furjan",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Al Furjan",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Al Furjan",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Al Furjan",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"International City Phase 1",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"International City Phase 1",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"International City Phase 1",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"International City Phase 1",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"International City Phase 1",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"International City Phase 1",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"International City Phase 1",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"International City Phase 1",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"International City Phase 1",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Village Circle",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Village Circle",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Village Circle",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Village Circle",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Village Circle",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Village Circle",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Village Circle",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Village Circle",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Village Circle",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Village Triangle",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Village Triangle",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Village Triangle",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Village Triangle",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Village Triangle",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Village Triangle",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Village Triangle",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Village Triangle",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeirah Village Triangle",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Mudon",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Mudon",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Mudon",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Mudon",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Mudon",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Mudon",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Mudon",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Mudon",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Mudon",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Palm Jumeirah",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Palm Jumeirah",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Palm Jumeirah",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Palm Jumeirah",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Palm Jumeirah",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Palm Jumeirah",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Palm Jumeirah",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Palm Jumeirah",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Palm Jumeirah",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Silicon Oasis",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Silicon Oasis",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Silicon Oasis",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Silicon Oasis",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Silicon Oasis",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Silicon Oasis",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Silicon Oasis",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Silicon Oasis",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"Silicon Oasis",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"The Greens",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"The Greens",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"The Greens",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"The Greens",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"The Greens",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"The Greens",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"The Greens",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"The Greens",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBI",
+    "region":"The Greens",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":66,
+    "n_steps":12,
+    "ch_seq":33
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Business Bay",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Business Bay",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Business Bay",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Business Bay",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Business Bay",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Business Bay",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Business Bay",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Business Bay",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Business Bay",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DAMAC HILLS 2",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DAMAC HILLS 2",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DAMAC HILLS 2",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DAMAC HILLS 2",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DAMAC HILLS 2",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DAMAC HILLS 2",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DAMAC HILLS 2",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DAMAC HILLS 2",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DAMAC HILLS 2",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DAMAC HILLS",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DAMAC HILLS",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DAMAC HILLS",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DAMAC HILLS",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DAMAC HILLS",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DAMAC HILLS",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DAMAC HILLS",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DAMAC HILLS",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DAMAC HILLS",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"TOWN SQUARE",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"TOWN SQUARE",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"TOWN SQUARE",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"TOWN SQUARE",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"TOWN SQUARE",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"TOWN SQUARE",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"TOWN SQUARE",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"TOWN SQUARE",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"TOWN SQUARE",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DownTown Dubai",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DownTown Dubai",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DownTown Dubai",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DownTown Dubai",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DownTown Dubai",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DownTown Dubai",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DownTown Dubai",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DownTown Dubai",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"DownTown Dubai",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Creek Harbour",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Creek Harbour",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Creek Harbour",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Creek Harbour",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Creek Harbour",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Creek Harbour",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Creek Harbour",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Creek Harbour",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Creek Harbour",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Marina",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Marina",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Marina",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Marina",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Marina",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Marina",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Marina",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Marina",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Marina",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai South Residential District",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai South Residential District",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai South Residential District",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai South Residential District",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai South Residential District",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai South Residential District",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai South Residential District",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai South Residential District",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai South Residential District",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Sports City",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Sports City",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Sports City",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Sports City",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Sports City",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Sports City",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Sports City",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Sports City",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Dubai Sports City",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Al Furjan",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Al Furjan",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Al Furjan",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Al Furjan",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Al Furjan",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Al Furjan",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Al Furjan",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Al Furjan",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Al Furjan",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"International City Phase 1",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"International City Phase 1",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"International City Phase 1",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"International City Phase 1",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"International City Phase 1",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"International City Phase 1",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"International City Phase 1",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"International City Phase 1",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"International City Phase 1",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Lakes Towers",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Village Circle",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Village Circle",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Village Circle",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Village Circle",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Village Circle",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Village Circle",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Village Circle",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Village Circle",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Village Circle",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Village Triangle",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Village Triangle",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Village Triangle",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Village Triangle",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Village Triangle",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Village Triangle",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Village Triangle",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Village Triangle",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeirah Village Triangle",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Jumeriah Beach Residence  - JBR",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Mudon",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Mudon",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Mudon",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Mudon",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Mudon",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Mudon",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Mudon",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Mudon",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Mudon",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Palm Jumeirah",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Palm Jumeirah",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Palm Jumeirah",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Palm Jumeirah",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Palm Jumeirah",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Palm Jumeirah",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Palm Jumeirah",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Palm Jumeirah",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Palm Jumeirah",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Silicon Oasis",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Silicon Oasis",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Silicon Oasis",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Silicon Oasis",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Silicon Oasis",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Silicon Oasis",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Silicon Oasis",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Silicon Oasis",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"Silicon Oasis",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"The Greens",
+    "horizon":2,
+    "n_rows":512,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"The Greens",
+    "horizon":6,
+    "n_rows":508,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"The Greens",
+    "horizon":10,
+    "n_rows":504,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"The Greens",
+    "horizon":14,
+    "n_rows":500,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"The Greens",
+    "horizon":18,
+    "n_rows":496,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"The Greens",
+    "horizon":22,
+    "n_rows":492,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"The Greens",
+    "horizon":26,
+    "n_rows":488,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"The Greens",
+    "horizon":30,
+    "n_rows":484,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  },
+  {
+    "tag":"PCSBIG",
+    "region":"The Greens",
+    "horizon":34,
+    "n_rows":480,
+    "n_cols_flat":90,
+    "n_steps":12,
+    "ch_seq":35
+  }
+]

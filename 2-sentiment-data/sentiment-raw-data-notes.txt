@@ -1,0 +1,8 @@
+The raw data source is the GDELT dataset stored in Bigquery
+The gdelt_bigquery.sql provides reproducable query to run in BigQuery SQL Editor
+Result of the query is already uploaded to s3 public endpoint which the py notebook uses as the data source
+
+# query takes about a minute to execute in bigquery
+# the given setup costs about 10-20 USD
+# a csv export to drive is suggested to save the data
+

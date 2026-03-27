@@ -1,0 +1,45 @@
+Ridge | Friedman p=0.006055
+Ridge | P -> PC | p=0.000965 | corrected=0.004826 *
+Ridge | PC -> PCS | p=0.679428 | corrected=1.000000 
+Ridge | PCS -> PCSB | p=0.768005 | corrected=1.000000 
+Ridge | PCSB -> PCSBI | p=0.181866 | corrected=0.909328 
+Ridge | PCSBI -> PCSBIG | p=0.984322 | corrected=1.000000 
+RF | Friedman p=0.000000
+RF | P -> PC | p=0.060207 | corrected=0.301037 
+RF | PC -> PCS | p=0.020412 | corrected=0.102062 
+RF | PCS -> PCSB | p=0.000267 | corrected=0.001335 *
+RF | PCSB -> PCSBI | p=0.257927 | corrected=1.000000 
+RF | PCSBI -> PCSBIG | p=0.000965 | corrected=0.004826 *
+KNN | Friedman p=0.000000
+KNN | P -> PC | p=0.020412 | corrected=0.102062 
+KNN | PC -> PCS | p=0.000523 | corrected=0.002613 *
+KNN | PCS -> PCSB | p=0.000011 | corrected=0.000057 *
+KNN | PCSB -> PCSBI | p=0.708557 | corrected=1.000000 
+KNN | PCSBI -> PCSBIG | p=0.072834 | corrected=0.364170 
+LSTM | Friedman p=0.000882
+LSTM | P -> PC | p=0.890568 | corrected=1.000000 
+LSTM | PC -> PCS | p=0.001694 | corrected=0.008469 *
+LSTM | PCS -> PCSB | p=0.144688 | corrected=0.723438 
+LSTM | PCSB -> PCSBI | p=0.708557 | corrected=1.000000 
+LSTM | PCSBI -> PCSBIG | p=0.395462 | corrected=1.000000 
+XGB | Friedman p=0.000000
+XGB | P -> PC | p=0.028931 | corrected=0.144653 
+XGB | PC -> PCS | p=0.000053 | corrected=0.000267 *
+XGB | PCS -> PCSB | p=0.000420 | corrected=0.002098 *
+XGB | PCSB -> PCSBI | p=0.181866 | corrected=0.909328 
+XGB | PCSBI -> PCSBIG | p=0.001171 | corrected=0.005856 *
+Best-tags | Ridge vs RF | p=0.000004
+Best-tags | Ridge vs KNN | p=0.000004
+Best-tags | Ridge vs LSTM | p=0.044559
+Best-tags | Ridge vs XGB | p=0.000004
+Best-tags | Ridge vs ARIMA | p=0.020412
+Best-tags | RF vs KNN | p=0.002399
+Best-tags | RF vs LSTM | p=0.000053
+Best-tags | RF vs XGB | p=0.006180
+Best-tags | RF vs ARIMA | p=0.001411
+Best-tags | KNN vs LSTM | p=0.000011
+Best-tags | KNN vs XGB | p=0.072834
+Best-tags | KNN vs ARIMA | p=0.000019
+Best-tags | LSTM vs XGB | p=0.000038
+Best-tags | LSTM vs ARIMA | p=0.006180
+Best-tags | XGB vs ARIMA | p=0.000164

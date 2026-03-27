@@ -1,0 +1,6 @@
+source (can be reached from UAE IP only)
+https://opendata.fcsc.gov.ae/@central-bank-united-arab-emirates/uae-interest-rates
+and 2024 added using Excel with data from: https://www.centralbank.ae/en/forex-eibor/eibor-rates/
+
+# 2015-2018 period was linearly interpolated as the data available was on yearly frequency
+# yearly change in these periods were small

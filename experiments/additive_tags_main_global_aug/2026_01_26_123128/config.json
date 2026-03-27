@@ -1,0 +1,62 @@
+{
+  "seed": 0,
+  "device": "cuda",
+  "tags": [
+    "P",
+    "PC",
+    "PCS",
+    "PCSB",
+    "PCSBI",
+    "PCSBIG"
+  ],
+  "horizons": [
+    2,
+    6,
+    10,
+    14,
+    18,
+    22,
+    26,
+    30,
+    34
+  ],
+  "regions": [
+    "Business Bay",
+    "DAMAC HILLS 2",
+    "DAMAC HILLS",
+    "TOWN SQUARE",
+    "DownTown Dubai",
+    "Dubai Creek Harbour",
+    "Dubai Marina",
+    "Dubai South Residential District",
+    "Dubai Sports City",
+    "Al Furjan",
+    "International City Phase 1",
+    "Jumeirah Lakes Towers",
+    "Jumeirah Village Circle",
+    "Jumeirah Village Triangle",
+    "Jumeriah Beach Residence  - JBR",
+    "Mudon",
+    "Palm Jumeirah",
+    "Silicon Oasis",
+    "The Greens"
+  ],
+  "window": 12,
+  "sar_lags": [
+    4,
+    8,
+    12,
+    20
+  ],
+  "data_paths": {
+    "price_series": "1-transaction-data/price_series.csv",
+    "counts_series": "1-transaction-data/counts_series.csv",
+    "sentiment": "2-sentiment-data/nsi_features_smooth.csv",
+    "sar": "3-satellite-data/weekly_sar_aligned.csv",
+    "interest_rate": "4-interest-rate-data/interest_rate_series.csv"
+  },
+  "exp_name": "additive_tags_main_global_aug",
+  "run_stamp": "2026_01_26_123128",
+  "modalities_order": "PCSBIG",
+  "cache_layout": "per_tag_npz_bundles"
+}

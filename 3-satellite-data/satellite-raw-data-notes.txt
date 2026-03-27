@@ -1,0 +1,15 @@
+The 1-get-data.ipynb uses the Google Earth Engine.
+To request task to the Earth Engine, an account and project is required in its platform.
+
+dubai_regions.geojson is prepared using the Earh Engine Editor.
+After manual labeling of the regions, the geojson values are exported from the editor.
+
+Using the geojson and Earth Engine access, 1-get-data.ipynb submits tasks.
+The tasks can be seens from : https://code.earthengine.google.com/
+Outputs of the tasks then exported to Google Drive by the Engine.
+raw_weekly_indexes are the those results donwloaded from the Drive.
+
+
+# the submitted tasks can take up an hour to execute
+# the export will be sent to drive by default
+

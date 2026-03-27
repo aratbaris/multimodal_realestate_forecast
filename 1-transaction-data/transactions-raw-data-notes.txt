@@ -1,0 +1,10 @@
+data used in the study is downloaded 
+from: https://www.dubaipulse.gov.ae/data/dld-transactions/dld_transactions-open
+at: 2025-07-20
+The source is available under the Open Data License.
+
+Source dataset created: 06 Apr 2022
+Source dataset last updated at the time of download: 18 Jul 2025
+
+We keep a point in time copy of the raw data used in the study in AWS Storage:
+"s3://ozu-ml-research/realestate_multimodal_ml/transactions/1-transactions-raw-data.csv" 

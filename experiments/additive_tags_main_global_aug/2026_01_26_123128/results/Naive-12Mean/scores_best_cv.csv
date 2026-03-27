@@ -1,0 +1,172 @@
+region,model,horizon,best_mae_mean
+Business Bay,Naive-12Mean,2,3.729044948048321
+Business Bay,Naive-12Mean,6,4.341651529770679
+Business Bay,Naive-12Mean,10,4.778897537023131
+Business Bay,Naive-12Mean,14,5.041710494081926
+Business Bay,Naive-12Mean,18,5.385847568035739
+Business Bay,Naive-12Mean,22,5.866689031406286
+Business Bay,Naive-12Mean,26,6.432931120748329
+Business Bay,Naive-12Mean,30,6.773045752916749
+Business Bay,Naive-12Mean,34,7.671716586191191
+DAMAC HILLS 2,Naive-12Mean,2,0.5361872003018014
+DAMAC HILLS 2,Naive-12Mean,6,0.6771583801369694
+DAMAC HILLS 2,Naive-12Mean,10,0.7667435649681146
+DAMAC HILLS 2,Naive-12Mean,14,0.8996234211966868
+DAMAC HILLS 2,Naive-12Mean,18,1.0563699661924446
+DAMAC HILLS 2,Naive-12Mean,22,1.1836417927740248
+DAMAC HILLS 2,Naive-12Mean,26,1.2817463408850915
+DAMAC HILLS 2,Naive-12Mean,30,1.3756862750262902
+DAMAC HILLS 2,Naive-12Mean,34,1.2995161622370015
+DAMAC HILLS,Naive-12Mean,2,3.3479136368973483
+DAMAC HILLS,Naive-12Mean,6,4.075800566043419
+DAMAC HILLS,Naive-12Mean,10,4.341301789836327
+DAMAC HILLS,Naive-12Mean,14,4.348932695053664
+DAMAC HILLS,Naive-12Mean,18,4.375774394738129
+DAMAC HILLS,Naive-12Mean,22,4.508435719064115
+DAMAC HILLS,Naive-12Mean,26,4.649743428826549
+DAMAC HILLS,Naive-12Mean,30,4.63398399292848
+DAMAC HILLS,Naive-12Mean,34,4.765943086265289
+TOWN SQUARE,Naive-12Mean,2,2.6289469572083326
+TOWN SQUARE,Naive-12Mean,6,3.028459617191698
+TOWN SQUARE,Naive-12Mean,10,3.0163765476177176
+TOWN SQUARE,Naive-12Mean,14,2.9527472139135797
+TOWN SQUARE,Naive-12Mean,18,3.0988588885217885
+TOWN SQUARE,Naive-12Mean,22,3.3787330731747915
+TOWN SQUARE,Naive-12Mean,26,3.6884898750172317
+TOWN SQUARE,Naive-12Mean,30,3.9227445231935136
+TOWN SQUARE,Naive-12Mean,34,4.470424615830261
+DownTown Dubai,Naive-12Mean,2,2.8749994326663524
+DownTown Dubai,Naive-12Mean,6,3.334957397505616
+DownTown Dubai,Naive-12Mean,10,3.6886433976234265
+DownTown Dubai,Naive-12Mean,14,4.0362916935569855
+DownTown Dubai,Naive-12Mean,18,4.275831258389259
+DownTown Dubai,Naive-12Mean,22,4.401947504413501
+DownTown Dubai,Naive-12Mean,26,4.582006341302483
+DownTown Dubai,Naive-12Mean,30,4.860084815375066
+DownTown Dubai,Naive-12Mean,34,5.739971265579097
+Dubai Creek Harbour,Naive-12Mean,2,1.0564082848407046
+Dubai Creek Harbour,Naive-12Mean,6,1.273099774709705
+Dubai Creek Harbour,Naive-12Mean,10,1.3478354609824144
+Dubai Creek Harbour,Naive-12Mean,14,1.3330763316784169
+Dubai Creek Harbour,Naive-12Mean,18,1.3458377105742136
+Dubai Creek Harbour,Naive-12Mean,22,1.4164386403090803
+Dubai Creek Harbour,Naive-12Mean,26,1.5183117077728459
+Dubai Creek Harbour,Naive-12Mean,30,1.594364965574472
+Dubai Creek Harbour,Naive-12Mean,34,1.7112292563140203
+Dubai Marina,Naive-12Mean,2,2.865230387276527
+Dubai Marina,Naive-12Mean,6,3.3256035935073234
+Dubai Marina,Naive-12Mean,10,3.8205697130660345
+Dubai Marina,Naive-12Mean,14,4.369831254125682
+Dubai Marina,Naive-12Mean,18,4.719073688649348
+Dubai Marina,Naive-12Mean,22,5.134196683764648
+Dubai Marina,Naive-12Mean,26,5.568290047094556
+Dubai Marina,Naive-12Mean,30,5.898131601673304
+Dubai Marina,Naive-12Mean,34,5.792109103292963
+Dubai South Residential District,Naive-12Mean,2,0.9984411657575389
+Dubai South Residential District,Naive-12Mean,6,1.3127209804437985
+Dubai South Residential District,Naive-12Mean,10,1.5554005775138549
+Dubai South Residential District,Naive-12Mean,14,1.7797487672712684
+Dubai South Residential District,Naive-12Mean,18,1.9438204607260268
+Dubai South Residential District,Naive-12Mean,22,2.072365680984687
+Dubai South Residential District,Naive-12Mean,26,2.214823726393782
+Dubai South Residential District,Naive-12Mean,30,2.282856839555655
+Dubai South Residential District,Naive-12Mean,34,2.6133804772798266
+Dubai Sports City,Naive-12Mean,2,1.3056105461553205
+Dubai Sports City,Naive-12Mean,6,1.6091787989395094
+Dubai Sports City,Naive-12Mean,10,1.8145163311738748
+Dubai Sports City,Naive-12Mean,14,2.030395686376626
+Dubai Sports City,Naive-12Mean,18,2.2270424793929946
+Dubai Sports City,Naive-12Mean,22,2.474397773103641
+Dubai Sports City,Naive-12Mean,26,2.698891231792573
+Dubai Sports City,Naive-12Mean,30,2.984249209278697
+Dubai Sports City,Naive-12Mean,34,2.7599773593079036
+Al Furjan,Naive-12Mean,2,3.226553810307871
+Al Furjan,Naive-12Mean,6,4.027868648430866
+Al Furjan,Naive-12Mean,10,4.708778923806994
+Al Furjan,Naive-12Mean,14,5.009651685601086
+Al Furjan,Naive-12Mean,18,5.017477456075333
+Al Furjan,Naive-12Mean,22,5.132016762606083
+Al Furjan,Naive-12Mean,26,5.4127055204241366
+Al Furjan,Naive-12Mean,30,5.806451699051606
+Al Furjan,Naive-12Mean,34,7.098501599153036
+International City Phase 1,Naive-12Mean,2,1.077286039824553
+International City Phase 1,Naive-12Mean,6,1.4228820692823316
+International City Phase 1,Naive-12Mean,10,1.6981020377899791
+International City Phase 1,Naive-12Mean,14,1.923288665779547
+International City Phase 1,Naive-12Mean,18,2.115952920759356
+International City Phase 1,Naive-12Mean,22,2.374734017476379
+International City Phase 1,Naive-12Mean,26,2.6712126648985293
+International City Phase 1,Naive-12Mean,30,2.997509511371443
+International City Phase 1,Naive-12Mean,34,3.14485131054769
+Jumeirah Lakes Towers,Naive-12Mean,2,1.8365271310518139
+Jumeirah Lakes Towers,Naive-12Mean,6,2.229206592950187
+Jumeirah Lakes Towers,Naive-12Mean,10,2.5844909057636167
+Jumeirah Lakes Towers,Naive-12Mean,14,2.9170933417348524
+Jumeirah Lakes Towers,Naive-12Mean,18,3.297869427838034
+Jumeirah Lakes Towers,Naive-12Mean,22,3.7768995839620105
+Jumeirah Lakes Towers,Naive-12Mean,26,4.240150873974853
+Jumeirah Lakes Towers,Naive-12Mean,30,4.512522934980785
+Jumeirah Lakes Towers,Naive-12Mean,34,4.823021216435894
+Jumeirah Village Circle,Naive-12Mean,2,2.0884189457124247
+Jumeirah Village Circle,Naive-12Mean,6,2.4904584322880963
+Jumeirah Village Circle,Naive-12Mean,10,2.9397837551668218
+Jumeirah Village Circle,Naive-12Mean,14,3.309128777794348
+Jumeirah Village Circle,Naive-12Mean,18,3.57418150858432
+Jumeirah Village Circle,Naive-12Mean,22,3.8822949277677514
+Jumeirah Village Circle,Naive-12Mean,26,3.9693183858602152
+Jumeirah Village Circle,Naive-12Mean,30,3.976265712165541
+Jumeirah Village Circle,Naive-12Mean,34,4.213203775501152
+Jumeirah Village Triangle,Naive-12Mean,2,3.4328459082665526
+Jumeirah Village Triangle,Naive-12Mean,6,4.722846129430583
+Jumeirah Village Triangle,Naive-12Mean,10,5.858460557964156
+Jumeirah Village Triangle,Naive-12Mean,14,6.771689367585594
+Jumeirah Village Triangle,Naive-12Mean,18,7.558193045527448
+Jumeirah Village Triangle,Naive-12Mean,22,8.13494615272427
+Jumeirah Village Triangle,Naive-12Mean,26,8.619186462116822
+Jumeirah Village Triangle,Naive-12Mean,30,9.192754212224054
+Jumeirah Village Triangle,Naive-12Mean,34,10.264033856547393
+Jumeriah Beach Residence  - JBR,Naive-12Mean,2,1.6252441016417756
+Jumeriah Beach Residence  - JBR,Naive-12Mean,6,2.2219669754488223
+Jumeriah Beach Residence  - JBR,Naive-12Mean,10,2.7650072098399665
+Jumeriah Beach Residence  - JBR,Naive-12Mean,14,3.2701174490107108
+Jumeriah Beach Residence  - JBR,Naive-12Mean,18,3.7394302328777242
+Jumeriah Beach Residence  - JBR,Naive-12Mean,22,4.154263508610859
+Jumeriah Beach Residence  - JBR,Naive-12Mean,26,4.468773530060999
+Jumeriah Beach Residence  - JBR,Naive-12Mean,30,4.5560664544275795
+Jumeriah Beach Residence  - JBR,Naive-12Mean,34,4.608709848919872
+Mudon,Naive-12Mean,2,0.8663495290212498
+Mudon,Naive-12Mean,6,1.151743234386807
+Mudon,Naive-12Mean,10,1.4054834203872912
+Mudon,Naive-12Mean,14,1.6806275121205423
+Mudon,Naive-12Mean,18,1.9548626474347928
+Mudon,Naive-12Mean,22,2.201332850106307
+Mudon,Naive-12Mean,26,2.4334715260936415
+Mudon,Naive-12Mean,30,2.641398895079602
+Mudon,Naive-12Mean,34,3.0561540944249384
+Palm Jumeirah,Naive-12Mean,2,4.061794577338597
+Palm Jumeirah,Naive-12Mean,6,4.840819597062643
+Palm Jumeirah,Naive-12Mean,10,5.143715615673169
+Palm Jumeirah,Naive-12Mean,14,5.245064879179979
+Palm Jumeirah,Naive-12Mean,18,5.397002541330581
+Palm Jumeirah,Naive-12Mean,22,5.695892000743177
+Palm Jumeirah,Naive-12Mean,26,5.973586013317209
+Palm Jumeirah,Naive-12Mean,30,6.095213295607223
+Palm Jumeirah,Naive-12Mean,34,7.134115118035867
+Silicon Oasis,Naive-12Mean,2,0.7229210824140014
+Silicon Oasis,Naive-12Mean,6,0.8342042129903622
+Silicon Oasis,Naive-12Mean,10,0.8851996817084459
+Silicon Oasis,Naive-12Mean,14,0.933594151161002
+Silicon Oasis,Naive-12Mean,18,1.065761330420335
+Silicon Oasis,Naive-12Mean,22,1.1926879032844828
+Silicon Oasis,Naive-12Mean,26,1.2251654236284528
+Silicon Oasis,Naive-12Mean,30,1.2628464137657809
+Silicon Oasis,Naive-12Mean,34,1.378383031295388
+The Greens,Naive-12Mean,2,0.8586403095027174
+The Greens,Naive-12Mean,6,1.1861190463101279
+The Greens,Naive-12Mean,10,1.4796488680021747
+The Greens,Naive-12Mean,14,1.7631221099575771
+The Greens,Naive-12Mean,18,2.023926634793536
+The Greens,Naive-12Mean,22,2.2968077382362155
+The Greens,Naive-12Mean,26,2.590690034654821
+The Greens,Naive-12Mean,30,2.937584947745301
+The Greens,Naive-12Mean,34,3.3558834699226234
